@@ -40,5 +40,3 @@ except ValueError:
 
 for line in opResult:
     print(line)
-
-print("tes""t")
